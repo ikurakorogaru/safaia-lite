@@ -1,0 +1,3 @@
+PASS: 19185 assertions (offsets, cache, survey, backup I/O)
+Offset traversal allocation: original=36432 B/op, lite=0 B/op
+Benchmark scope: offset generation/traversal only; not Minecraft FPS or total RAM.

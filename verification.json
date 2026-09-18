@@ -1,0 +1,27 @@
+{
+  "input_sha256": "395a39cde4a9e3ae3cc74a25bb8eaaa8d1eec6bddd70406558abbaeffb799c1c",
+  "output_sha256": "5d502228d90291dc9b44ce5b6c2b2f7a5f9f0ce57e919af45508936f6a9e86f8",
+  "input_bytes": 61714,
+  "output_bytes": 65747,
+  "java_release": 25,
+  "minecraft": "26.2",
+  "fabric_loader": "0.19.3",
+  "fabric_api": "0.159.0+26.2",
+  "restored_compile": "PASS",
+  "lite_compile": "PASS",
+  "default_core_assertions": 19185,
+  "with_original_jar_comparison_assertions": 23330,
+  "offset_allocation_benchmark": {
+    "warmup_iterations": 3000,
+    "measured_iterations": 10000,
+    "original_bytes_per_operation": 36432,
+    "lite_bytes_per_operation": 0,
+    "scope": "offset generation and traversal only"
+  },
+  "container_checks": "PASS (CRC, unique entries, entrypoint, license, icon, Java 25 class version, no bundled dependencies)",
+  "lite_class_count": 13,
+  "game_launch": "NOT RUN",
+  "in_game_gui_and_preset": "NOT RUN",
+  "fps_benchmark": "NOT RUN",
+  "gradle_build": "NOT RUN (local-cache javac build used)"
+}

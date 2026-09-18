@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "safaia00",
+  "version": "1.2.0-lite",
+  "name": "Safaia Lite",
+  "description": "Safaia: low-overhead diagnostics and reversible performance settings",
+  "authors": [
+    "sasa4171"
+  ],
+  "license": "CC0-1.0",
+  "environment": "client",
+  "icon": "assets/template-mod/icon.png",
+  "entrypoints": {
+    "client": [
+      "com.example.client.SafaiaClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
